@@ -1,0 +1,44 @@
+.header {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #068ed0;
+    height: 50%;
+    width: 100%;
+    margin-bottom: 5%;
+}
+
+.input-border {
+    border: none;
+    border-bottom: 1px solid #333;
+    border-radius: 0;
+}
+
+.margin-bottom {
+    margin-bottom: 6%;
+}
+
+.margin-bottom-checkbox {
+    margin-bottom: 6%;
+}
+
+.button-cadastro {
+    margin-bottom: 7%;
+    display: flex;
+    padding: 0 45px;
+    justify-content: end;
+}
+
+.footer-container{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 15%;
+    background-color: #068ed0
+}
+
+.img-rodape{
+    height: 20px;
+}
+
